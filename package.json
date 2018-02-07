@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "description": "Type definitions for MRAA v1.3.0",
   "main": "index.js",
-  "types", "mraa.d.ts",
+  "types": "mraa.d.ts",
   "directories": {
     "test": "test"
   },
